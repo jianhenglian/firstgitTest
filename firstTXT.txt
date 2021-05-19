@@ -1,4 +1,5 @@
-
+I do some edit in the other
+:
 This is my 
 First time try to use git
 asd
